@@ -17,7 +17,7 @@ const Trainers = () => {
     { id: 4, name: "Arnold Stive", img: trainer6 },
   ];
   return (
-    <div className="container">
+    <div id="trainers" className="container">
       <h1 className="text-primary text-center">Our-Trainers</h1>
       <div className="row">
         {trainers.map((trainer) => (
