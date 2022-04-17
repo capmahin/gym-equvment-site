@@ -1,0 +1,39 @@
+[
+  {
+    "id": "1",
+    "img": "https://www.fitnessequipmentireland.ie/wp-content/uploads/2019/10/Latpull-1-2-2-247x296.jpg",
+    "name": "LetPull-Down",
+    "description": "The pull-down exercise is a strength training exercise designed to develop the latissimus dorsi muscle. It performs the functions of downward rotation and depression of the scapulae combined with adduction and extension of the shoulder joint."
+  },
+  {
+    "id": "2",
+    "img": "https://5.imimg.com/data5/SELLER/Default/2021/2/US/AH/IT/34019098/leg-press-500x500.png",
+    "name": "Leg-Press",
+    "description": "The leg press is a compound weight training exercise in which the individual pushes a weight or resistance away from them using their legs. The term leg press machine refers to the apparatus used to perform this exercise."
+  },
+  {
+    "id": "3",
+    "img": "https://caliberstrong.com/wp-content/uploads/2020/04/seated-military-press-range-of-motion.jpg",
+    "name": "OverHead-Press",
+    "description": "The overhead press is an upper-body weight training exercise in which the trainee presses a weight overhead while seated or standing. It is mainly used to develop the anterior deltoid muscles of the shoulder."
+  },
+  {
+    "id": "4",
+    "img": "https://cdn.muscleandstrength.com/sites/default/files/barbell-bench-press_0.jpg",
+    "name": "Banch-Press",
+    "description": "The bench press, or chest press, is an upper-body weight training exercise in which the trainee presses a weight upwards while lying on a weight training bench. The exercise uses the pectoralis major, the anterior deltoids, and the triceps, among other stabilizing muscles. A barbell is generally used to hold the weight, but a pair of dumbbells can also be used."
+  },
+  {
+    "id": "5",
+    "img": "https://www.alphafit.com.au/assets/full/870.jpg?20210208121819",
+    "name": "Dumbbell",
+    "description": "The dumbbell, a type of free weight, is a piece of equipment used in weight training. It can be used individually or in pairs, with one in each hand."
+  },
+  {
+    "id": "6",
+    "img": "https://www.u-buy.jp/productimg/?image=aHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvNzF6ZDhzNmJqMlMuX0FDX1NMMTUwMF8uanBn.jpg",
+    "name": "Smith-Machine",
+    "description": "The Smith machine is a weight machine used for weight training. It consists of a barbell that is fixed within steel rails allowing only vertical or near-vertical movement. Some Smith machines have the barbell counterbalanced. The machine can be used for a wide variety of exercises though it is most commonly used to perform Smith machine squats"
+  }
+  
+]
