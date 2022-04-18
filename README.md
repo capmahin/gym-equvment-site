@@ -1,3 +1,16 @@
+*Power GYM
+*its a Gym site
+*There are many Machine details and how it work.
+*There are trainers details and how its work .
+*a Register feature form memberShip and Join our Gym
+*and once u register you have just logion cause we have Login feature. \* Our-Site:[https://assignment-10-eee47.web.app/]
+
+**use feature in site**
+**React-router
+**React-firebase-hooks
+**React-bootstrap
+**Bootstrap and vanilla CSS
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
