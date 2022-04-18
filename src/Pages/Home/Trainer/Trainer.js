@@ -9,8 +9,13 @@ const Trainer = ({ trainer }) => {
         <div className="card-body">
           <h5 className="card-title">{name}</h5>
           <h5 className="card-text">
-            Some quick example text to build on the card title and make up the
-            bulk of the card's content.
+            A personal trainer is an individual who has earned a certification
+            that demonstrates they have achieved a level of competency for
+            creating and delivering safe and effective exercise programs for
+            apparently healthy individuals and groups or those with medical
+            clearance to exercise. They motivate clients by collaborating to set
+            goals, providing meaningful feedback, and by being a reliable source
+            for accountability.
           </h5>
           <a href="#" className="btn btn-secondary">
             About
