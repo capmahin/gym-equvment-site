@@ -36,7 +36,6 @@ function App() {
             </RequireAuth>
           }
         ></Route>
-
         <Route path="*" element={<NotFound></NotFound>}></Route>
       </Routes>
       <Footer></Footer>
