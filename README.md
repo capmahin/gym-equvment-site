@@ -3,7 +3,7 @@
 *There are many Machine details and how it work.
 *There are trainers details and how its work .
 *a Register feature form memberShip and Join our Gym
-*and once u register you have just logion cause we have Login feature. \* Our-Site:[https://assignment-10-eee47.web.app/]
+*and once u register you have just logion cause we have Login feature. \* Our-Site:[https://assignment-10-eee47.firebaseapp.com/]
 
 **use feature in site**
 **React-router
