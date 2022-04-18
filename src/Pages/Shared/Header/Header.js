@@ -22,7 +22,7 @@ const Header = () => {
       >
         <Container>
           <Navbar.Brand as={Link} to="/">
-            <img height={60} src={logo} alt="" />
+            <img height={80} src={logo} alt="" />
           </Navbar.Brand>
           <Navbar.Toggle aria-controls="responsive-navbar-nav" />
           <Navbar.Collapse id="responsive-navbar-nav">
@@ -46,6 +46,9 @@ const Header = () => {
             <Nav>
               <Nav.Link as={Link} to="/about">
                 About
+              </Nav.Link>
+              <Nav.Link as={Link} to="/blog">
+                Blog
               </Nav.Link>
               {user ? (
                 <button
